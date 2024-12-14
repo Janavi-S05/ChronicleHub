@@ -9,11 +9,12 @@
 - Secure Authentication: Access tokens are used for user authentication and authorization.
 
 # Technologies Used
-Backend: Node.js, Express
-Database: MongoDB
-Authentication: JWT (JSON Web Tokens)
-Frontend: React (for future integration)
+Backend: Node.js, Express /
+Database: MongoDB /
+Authentication: JWT (JSON Web Tokens) /
+Frontend: React (for future integration) /
 
+# Getting Started
 1. Clone the repository: git clone <repository_url>
 2. Install dependencies: npm install
 3. Set up environment variables: Create a .env file with the necessary configurations such as MongoDB URI, JWT_SECRET, and other related variables.
