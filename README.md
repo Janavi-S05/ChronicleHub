@@ -2,7 +2,7 @@
 
 > ChronicleHub is a personal blogging platform that allows users to create, edit, and delete posts. Each post can contain a title, description, date, images, and location. The application also allows users to search for posts based on a date range or filter them using keywords. Authentication is handled through access tokens to ensure secure access.
 
-# Features
+# Features 
 - Create, Edit, and Delete Posts: Users can easily manage their blog posts.
 - Post Details: Each post includes a title, description, date, images, and location.
 - Search Functionality: Search posts based on date range or filter through keywords.
